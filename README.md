@@ -2,3 +2,9 @@ For this project Ioannis and Daniel work together as a team to create a guitar a
 
 For a detail timeline of the project you can vist here to see the amount of time and effort we place onto this project:
 https://github.com/ioannis-0/Guitar-Amplifier/projects?query=is%3Aopen
+
+Here is an image of the PCB on KiCad
+
+
+
+Here is an image of us testing the PCB
