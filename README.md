@@ -11,4 +11,4 @@ Image of the PCB on KiCad:
 
 
 
-Image of on the testing of the PCB:
+Image of the testing of the PCB:
