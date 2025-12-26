@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "L08R5000Q1")(type "KiCad")(uri "C:/Users/capta/Downloads/L08R5000Q1 (1)")(options "")(descr ""))
+  (lib (name "RJ3VM")(type "KiCad")(uri "C:/Users/capta/Downloads/RJ3VM")(options "")(descr ""))
+  (lib (name "TL072")(type "KiCad")(uri "C:/Users/capta/Downloads/TL072 (1)")(options "")(descr ""))
+  (lib (name "DCJ200-10-A-XX-K_REVA")(type "KiCad")(uri "C:/Users/capta/Downloads/DCJ200-10-A-XX-K_REVA")(options "")(descr ""))
+  (lib (name "TC33X-2-103E")(type "KiCad")(uri "C:/Users/capta/Downloads/TC33X-2-103E (2)")(options "")(descr ""))
+)
