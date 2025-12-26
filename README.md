@@ -2,7 +2,7 @@ For this project Ioannis and Daniel work together as a team to create a guitar a
 
 This is the KiCad file for the PCB: https://github.com/ioannis-0/Guitar-Amplifier/tree/main/Final%20personal%20project
 
-For a detail timeline and understanding of the project you can vist here:
+For a detail timeline and understanding of the project you can visit here:
 https://github.com/ioannis-0/Guitar-Amplifier/projects?query=is%3Aopen
 
 Here is an image of the PCB on KiCad:
