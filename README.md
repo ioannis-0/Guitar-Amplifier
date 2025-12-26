@@ -6,9 +6,10 @@ This is the KiCad file for the PCB: https://github.com/ioannis-0/Guitar-Amplifie
 For a detail timeline and understanding of the project you can visit here:
 https://github.com/ioannis-0/Guitar-Amplifier/projects?query=is%3Aopen
 
-Image of the PCB on KiCad:
-
+Image of the PCB on KiCad: 
+https://www.youtube.com/watch?v=hHbWF1Bvgf4
 
 
 
 Image of the testing of the PCB:
+https://www.youtube.com/watch?v=hHbWF1Bvgf4
