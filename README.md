@@ -8,7 +8,6 @@ For a detail timeline and understanding of the project you can visit here:
 https://github.com/ioannis-0/Guitar-Amplifier/projects?query=is%3Aopen
 
 Image of the PCB on KiCad:
-
 <img src="bf1d6cce-1c7d-4efb-b69f-7e2322597bed.JPG" width="700" >
 
 
