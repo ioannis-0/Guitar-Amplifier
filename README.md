@@ -13,3 +13,5 @@ Image of the PCB on KiCad:
 
 Image of the testing of the PCB:
 https://www.youtube.com/watch?v=hHbWF1Bvgf4
+
+Image of the physical PCB:
