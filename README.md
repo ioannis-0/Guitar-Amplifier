@@ -13,7 +13,7 @@ Audio jack = RJ3VM
 
 Potentiometer = TC33X-2-103E
 
-After using these components we ran a DRC (Design Rule Checking) and the results of the DRC were that there were no problems or issues
+After using these components we ran a DRC (Design Rule Checking) and the results of the DRC were that there were no problems or issues.
 
 <ins> This is the KiCad file for the PCB: </ins>          
 https://github.com/ioannis-0/Guitar-Amplifier/tree/main/Final%20personal%20project
