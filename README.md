@@ -5,9 +5,9 @@ This project is made up of two phases, with the first one being the **Creation o
 
 **Creation of the PCB:** We have created the PCB of the guitar amplifier on KiCad, as it took us around three weeks to make. During this period, we ran into a few problems, specifically with the types of components we were considering to use. The components of an operational amplifier, power barrel connector, audio jack, and potentiometer were the main issues that arose. But eventually, we were able to find compatible components that we could use on our PCB. As these components are the most compatible that solved the main issues: 
 
-Operational amplifier =
+Operational amplifier = TL072 Lo/Noise 2XJFET Op. Amplifier
 
-Power barrel connector = 
+Power barrel connector = DCJ200-10-A-K1-K
 
 Audio jack = 
 
