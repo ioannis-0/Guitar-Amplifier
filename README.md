@@ -13,19 +13,18 @@ Audio jack =
 
 Potentiometer = 
 
-**Testing:** We decided to test the PCB on an electric guitar which is the squier sonic stratocaster. As the testing we conducted on this electric guitar was a success as we were able to increase the volume output of the guitar using the PCB we had created.
-
 <ins> This is the KiCad file for the PCB: </ins>          
 https://github.com/ioannis-0/Guitar-Amplifier/tree/main/Final%20personal%20project
-
-<ins> For a detail timeline and understanding of the project you can visit here: </ins>                                                  
-https://github.com/ioannis-0/Guitar-Amplifier/projects?query=is%3Aopen
 
 <ins> Image of the PCB on KiCad: </ins>  
 <img src="bf1d6cce-1c7d-4efb-b69f-7e2322597bed.JPG" width="700" >
 
+**Testing:** We decided to test the PCB on an electric guitar which is the squier sonic stratocaster. As the testing we conducted on this electric guitar was a success as we were able to increase the volume output of the guitar using the PCB we had created.
 
 <ins> Image of the testing of the PCB: </ins>  
 https://www.youtube.com/watch?v=hHbWF1Bvgf4
 
 <ins> Image of the physical PCB: </ins>  
+
+<ins> For a detail timeline and understanding of the project you can visit here: </ins>                                                  
+https://github.com/ioannis-0/Guitar-Amplifier/projects?query=is%3Aopen
