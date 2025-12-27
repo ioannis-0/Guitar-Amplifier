@@ -25,6 +25,3 @@ https://github.com/ioannis-0/Guitar-Amplifier/tree/main/Final%20personal%20proje
 https://www.youtube.com/watch?v=hHbWF1Bvgf4
 
 <ins> Image of the physical PCB: </ins>  
-
-<ins> For a detail timeline and understanding of the project you can visit here: </ins>                                                  
-https://github.com/ioannis-0/Guitar-Amplifier/projects?query=is%3Aopen
