@@ -11,7 +11,7 @@ Power barrel connector = DCJ200-10-A-K1-K
 
 Audio jack = 
 
-Potentiometer = 
+Potentiometer = TC33X-2-103E
 
 <ins> This is the KiCad file for the PCB: </ins>          
 https://github.com/ioannis-0/Guitar-Amplifier/tree/main/Final%20personal%20project
