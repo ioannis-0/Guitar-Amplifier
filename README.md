@@ -19,7 +19,7 @@ https://github.com/ioannis-0/Guitar-Amplifier/tree/main/Final%20personal%20proje
 <ins> Image of the PCB on KiCad: </ins>  
 <img src="bf1d6cce-1c7d-4efb-b69f-7e2322597bed.JPG" width="700" >
 
-**Testing:** We decided to test the PCB on an electric guitar which is the squier sonic stratocaster. As the testing we conducted on this electric guitar was a success as we were able to increase the volume output of the guitar using the PCB we had created.
+**Testing:** We decided to test the PCB on an electric guitar which is the squier sonic stratocaster. As the testing we conducted on this electric guitar was a success as we were able to increase the volume output of the guitar using the PCB we had created. As no serious problems occurred during the testing phase.
 
 <ins> Image of the testing of the PCB: </ins>  
 https://www.youtube.com/watch?v=hHbWF1Bvgf4
