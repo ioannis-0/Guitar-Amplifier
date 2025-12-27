@@ -9,7 +9,7 @@ Operational amplifier = TL072 Lo/Noise 2XJFET Op. Amplifier
 
 Power barrel connector = DCJ200-10-A-K1-K
 
-Audio jack = 
+Audio jack = RJ3VM
 
 Potentiometer = TC33X-2-103E
 
