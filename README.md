@@ -21,7 +21,7 @@ https://github.com/ioannis-0/Guitar-Amplifier/tree/main/Final%20personal%20proje
 <ins> Image of the PCB on KiCad: </ins>  
 <img src="bf1d6cce-1c7d-4efb-b69f-7e2322597bed.JPG" width="700" >
 
-**Testing:** The PCB was tested on an electric guitar (Squier Sonic Stratocaster). The testing we conducted on this electric guitar was a success, as we were able to increase the volume output of the guitar using the PCB we had created. As no serious problems occurred during the testing phase.
+**Testing:** The PCB was tested on an electric guitar (Squier Sonic Stratocaster). The testing we conducted on this electric guitar was a success, as we were able to increase the volume output of the guitar using the PCB we had created. As no serious problems occurred during the testing phase. As the only issue that occurred was during the soldering process we had to modify the audio jack in order for it to work with the PCB, as the modificatiion was just altering the connect point with the PCB and we did that by using lead.
 
 <ins> Image of the testing of the PCB: </ins>  
 https://www.youtube.com/watch?v=hHbWF1Bvgf4
