@@ -27,6 +27,6 @@ https://github.com/ioannis-0/Guitar-Amplifier/tree/main/Final%20personal%20proje
 https://www.youtube.com/watch?v=hHbWF1Bvgf4
 
 <ins> Images of the physical PCB: </ins>  
-<img src="IMG_0770.HEIC" width="700" >
-<img src="IMG_0771.HEIC" width="700" >
-<img src="IMG_0772.HEIC" width="700" >
+<img src="Screenshot 2026-01-19 102628.png" width="700" >
+<img src="Screenshot 2026-01-19 102645.png" width="700" >
+<img src="Screenshot 2026-01-19 102701.png" width="700" >
