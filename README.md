@@ -27,3 +27,4 @@ https://github.com/ioannis-0/Guitar-Amplifier/tree/main/Final%20personal%20proje
 https://www.youtube.com/watch?v=hHbWF1Bvgf4
 
 <ins> Image of the physical PCB: </ins>  
+<img src="bf1d6cce-1c7d-4efb-b69f-7e2322597bed.JPG" width="700" >
